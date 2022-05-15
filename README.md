@@ -14,7 +14,7 @@
 - 📫 You can reach me at aria.desta18@gmail.com
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=dracula" />
+ <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 
 
