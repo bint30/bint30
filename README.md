@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 style="center">
+    Hi there 👋 I'm Bintang
+</h1>
 
-<!--
-**bint30/bint30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/7f/9b/92/7f9b92e6d10799bd7d3c47433fb3e020.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariadesta2083&show_icons=true&theme=radical" width="400">
+
+- ⚡ Excited to create open-source projects
+- 🌱 I’m currently learning Laravel and Flutter
+- 😄 I'm natively speak bahasa Indonesian
+- 💕 I'm currently fall in love with Laravel and Flutter
+- 📫 You can reach me at aria.desta18@gmail.com
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=dracula" />
+
+####ContactMe :
+<br>
+<a href="https://www.instagram.com/biiint_/">
+    <img src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
