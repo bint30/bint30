@@ -4,6 +4,8 @@
 
 
  <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bint30)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariadesta2083&show_icons=true&theme=radical" width="400">
 
