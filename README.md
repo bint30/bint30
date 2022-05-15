@@ -16,9 +16,5 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadesta2083&layout=compact&theme=dracula" />
 
-####ContactMe :
-<br>
-<a href="https://www.instagram.com/biiint_/">
-    <img src="https://img.shields.io/badge/aria_desta-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 
