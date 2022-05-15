@@ -5,7 +5,7 @@
 
  <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bint30&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bint30&show_icons=true&hide_title&theme=tokyonight)
 
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning Laravel and Flutter
